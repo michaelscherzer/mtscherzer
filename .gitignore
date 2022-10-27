@@ -1,0 +1,6 @@
+_site
+*.bat
+.jekyll-metadata
+.jekyll-cache
+_logs/
+.DS_Store
